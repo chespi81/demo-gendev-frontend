@@ -1,7 +1,0 @@
-aws_region            = "us-east-1"
-project_name          = "product-storage"
-instance_type         = "t3.micro"
-ssh_cidr              = "203.0.113.10/32"
-s3_bucket_name        = "my-unique-product-assets-bucket-123456"
-s3_force_destroy      = false
-dynamodb_table_prefix = "product-storage"
